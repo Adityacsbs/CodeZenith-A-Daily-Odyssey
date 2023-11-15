@@ -1,0 +1,27 @@
+class Solution 
+{
+public:
+    int distanceTraveled(int mainTank, int additionalTank) 
+    {
+        int petrol = 0;
+        
+        // While there is enough fuel in the main tank
+        while (mainTank >= 5)
+        {
+            petrol += 50;  // Add 5 units of fuel to the distance traveled (5 units * 10)
+            mainTank -= 5; // Consume 5 units of fuel from the main tank
+
+            // If there is additional fuel in the additional tank, use it
+            if (additionalTank > 0)
+            {
+                mainTank++;         // Transfer 1 unit from additional tank to main tank
+                additionalTank--;   // Consume 1 unit from additional tank
+            }
+        }
+
+        // Add the remaining fuel in the main tank to the distance traveled
+        petrol += mainTank * 10;
+
+        return petrol;
+    }
+};
