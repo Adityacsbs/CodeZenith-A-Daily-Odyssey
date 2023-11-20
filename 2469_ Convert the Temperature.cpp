@@ -1,4 +1,4 @@
-//problem link = https://leetcode.com/problems/convert-the-temperature/description/
+
 class Solution {
 public:
     vector<double> convertTemperature(double celsius) {
