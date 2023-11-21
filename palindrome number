@@ -7,6 +7,7 @@ public:
    
      long long a = x%10;
          b = b*10 + a;
+
          x=x/10;
      }
 
