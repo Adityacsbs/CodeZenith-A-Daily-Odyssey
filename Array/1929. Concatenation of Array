@@ -1,0 +1,17 @@
+#include <vector>
+class Solution {
+public:
+    std::vector<int> getConcatenation(std::vector<int>& nums) {
+        int m = nums.size(); // Use size() instead of sizeof() for vectors
+        int k = 2 * m;
+        std::vector<int> ans(k); // Use vector instead of an array
+
+        for (int i = 0; i < 2; ++i) {
+            for (int j = 0; j < m; ++j) {
+                ans[i * m + j] = nums[j]; // Correct indexing for concatenation
+            }
+        }
+
+        return ans;
+    }
+};
