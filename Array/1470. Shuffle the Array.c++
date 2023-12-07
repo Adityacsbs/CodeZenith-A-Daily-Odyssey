@@ -8,9 +8,10 @@ public:
 
         for (int i = 0; i < n; ++i) {
             ans[2 * i] = nums[i];        // Take element from the first half
-            ans[2 * i + 1] = nums[i + n]; // Take element from the second half
+            ans[2 * i + 1] = nums[i + n]; // Take element from the second halfh
         }
 
         return ans;
+        
     }
 };
