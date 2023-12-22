@@ -12,7 +12,7 @@ public:
                 int digit = n % 10;
                 sum += digit * digit;
                 n /= 10;
-            }
+            }//
 
             if (num.count(sum) > 0)
                 return false;
