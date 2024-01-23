@@ -2,7 +2,7 @@ Daily Coding Challenge Repository
 
 Welcome to my Daily Coding Challenge repository! I am committed to solving one coding problem each day, and below is a well-organized table showcasing each day's challenge or solved problem. You can find the folder name, problem title, and a link to the problem for each entry.
 
-Feel free to explore the solutions and challenge prompts. If you have any suggestions or want to collaborate, please let me know. Happy coding!
+Feel free to explore the solutions and challenge prompts. If you have any suggestions or want to collaborate, please let me know. Happy coding!!
 
 ## Daily Problems
 | Date       | Folder Name          | Problem Title      | Link                                      |
