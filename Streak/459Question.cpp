@@ -13,6 +13,7 @@ public:
 
             for(int j=0; j<repeatation;j++){
                 empty += s.substr(0, i);
+                //edited
             }
 
             if(s==empty){
