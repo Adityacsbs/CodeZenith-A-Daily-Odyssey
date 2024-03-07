@@ -1,0 +1,32 @@
+  
+class Solution {
+public:
+    string truncateSentence(string s, int k) {
+        istringstream iss(s);
+        vector<string> words;
+        string word;
+
+        // Split the input string into words
+        while (iss >> word) {
+            words.push_back(word);
+        }
+
+        // Truncate the words vector if necessary
+        if (words.size() > k) {
+            words.resize(k);
+        }
+
+        // Concatenate the words to form the truncated sentence
+        string truncated;
+        for (const string& w : words) {
+            truncated += w + " ";
+        }
+
+        // Remove the extra space at the end
+        if (!truncated.empty()) {
+            truncated.pop_back();
+        }
+
+        return truncated;
+    }
+};
