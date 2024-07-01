@@ -13,3 +13,11 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 | 04-01-24   | [Day-4](https://github.com/Adityacsbs/Leetcode/tree/2f14daf50842889a3f7c68ec099c5f809e647b66/DAY-4) |  Minimum Number of Operations to Make Array Empty| [LeetCode Problem 2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/?envType=daily-question&envId=2024-01-04) |
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
