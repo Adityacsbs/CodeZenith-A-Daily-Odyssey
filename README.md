@@ -27,5 +27,6 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0485-max-consecutive-ones) |
 | [1293-three-consecutive-odds](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
