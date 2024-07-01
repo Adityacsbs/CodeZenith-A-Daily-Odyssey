@@ -22,5 +22,6 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 | [0584-find-customer-referee](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
