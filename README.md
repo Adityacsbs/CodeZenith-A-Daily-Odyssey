@@ -27,7 +27,24 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0665-non-decreasing-array) |
 | [1293-three-consecutive-odds](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1293-three-consecutive-odds) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
