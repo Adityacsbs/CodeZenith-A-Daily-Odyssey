@@ -28,5 +28,6 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0485-max-consecutive-ones) |
+| [0665-non-decreasing-array](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0665-non-decreasing-array) |
 | [1293-three-consecutive-odds](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
