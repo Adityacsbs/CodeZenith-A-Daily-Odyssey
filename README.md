@@ -25,6 +25,7 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 | [1258-article-views-i](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
