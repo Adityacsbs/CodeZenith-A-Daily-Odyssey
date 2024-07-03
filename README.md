@@ -33,6 +33,7 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 | [0485-max-consecutive-ones](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0665-non-decreasing-array) |
 | [1293-three-consecutive-odds](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1293-three-consecutive-odds) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,9 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
