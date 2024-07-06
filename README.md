@@ -55,4 +55,12 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
