@@ -29,6 +29,7 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0665-non-decreasing-array) |
@@ -41,6 +42,7 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -63,4 +65,16 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/2645-pass-the-pillow) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
