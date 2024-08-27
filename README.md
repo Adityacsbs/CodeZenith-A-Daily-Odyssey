@@ -29,6 +29,7 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0485-max-consecutive-ones) |
@@ -43,6 +44,7 @@ Feel free to explore the solutions and challenge prompts. If you have any sugges
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityacsbs/CodeZenith-A-Daily-Odyssey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
